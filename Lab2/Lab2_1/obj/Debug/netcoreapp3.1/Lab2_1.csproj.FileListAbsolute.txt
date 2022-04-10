@@ -1,0 +1,17 @@
+C:\Users\Asus\developement\ii\Lab2\Lab2_1\bin\Debug\netcoreapp3.1\Lab2_1.exe
+C:\Users\Asus\developement\ii\Lab2\Lab2_1\bin\Debug\netcoreapp3.1\Lab2_1.deps.json
+C:\Users\Asus\developement\ii\Lab2\Lab2_1\bin\Debug\netcoreapp3.1\Lab2_1.runtimeconfig.json
+C:\Users\Asus\developement\ii\Lab2\Lab2_1\bin\Debug\netcoreapp3.1\Lab2_1.runtimeconfig.dev.json
+C:\Users\Asus\developement\ii\Lab2\Lab2_1\bin\Debug\netcoreapp3.1\Lab2_1.dll
+C:\Users\Asus\developement\ii\Lab2\Lab2_1\bin\Debug\netcoreapp3.1\Lab2_1.pdb
+C:\Users\Asus\developement\ii\Lab2\Lab2_1\obj\Debug\netcoreapp3.1\Lab2_1.csproj.AssemblyReference.cache
+C:\Users\Asus\developement\ii\Lab2\Lab2_1\obj\Debug\netcoreapp3.1\Lab2_1.Form1.resources
+C:\Users\Asus\developement\ii\Lab2\Lab2_1\obj\Debug\netcoreapp3.1\Lab2_1.loginPrompt.resources
+C:\Users\Asus\developement\ii\Lab2\Lab2_1\obj\Debug\netcoreapp3.1\Lab2_1.csproj.GenerateResource.cache
+C:\Users\Asus\developement\ii\Lab2\Lab2_1\obj\Debug\netcoreapp3.1\Lab2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\developement\ii\Lab2\Lab2_1\obj\Debug\netcoreapp3.1\Lab2_1.AssemblyInfoInputs.cache
+C:\Users\Asus\developement\ii\Lab2\Lab2_1\obj\Debug\netcoreapp3.1\Lab2_1.AssemblyInfo.cs
+C:\Users\Asus\developement\ii\Lab2\Lab2_1\obj\Debug\netcoreapp3.1\Lab2_1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\developement\ii\Lab2\Lab2_1\obj\Debug\netcoreapp3.1\Lab2_1.dll
+C:\Users\Asus\developement\ii\Lab2\Lab2_1\obj\Debug\netcoreapp3.1\Lab2_1.pdb
+C:\Users\Asus\developement\ii\Lab2\Lab2_1\obj\Debug\netcoreapp3.1\Lab2_1.genruntimeconfig.cache

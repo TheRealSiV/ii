@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pAhbaYACXF79cc9CjjPy9HDRlfciOuyKj3Rwyq2fqRnzMpbSCD23XeYnUUpxyQjfYrTtiIgU+IPpyPLCE6NKBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\developement\\ii\\Lab2\\Lab2_T1\\Lab2_T1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

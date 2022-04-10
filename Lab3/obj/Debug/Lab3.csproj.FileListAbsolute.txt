@@ -1,0 +1,12 @@
+C:\Users\Asus\developement\ii\Lab3\bin\Debug\Database1.mdf
+C:\Users\Asus\developement\ii\Lab3\bin\Debug\Database1_log.ldf
+C:\Users\Asus\developement\ii\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Asus\developement\ii\Lab3\bin\Debug\Lab3.exe
+C:\Users\Asus\developement\ii\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Asus\developement\ii\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\Users\Asus\developement\ii\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+C:\Users\Asus\developement\ii\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\Asus\developement\ii\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\developement\ii\Lab3\obj\Debug\Lab3.exe
+C:\Users\Asus\developement\ii\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Asus\developement\ii\Lab3\obj\Debug\Lab3.Form1.resources
